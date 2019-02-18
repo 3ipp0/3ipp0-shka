@@ -3,7 +3,7 @@
 
 ### Що зроблено:
 - Архітектура (?)
-![Image of Arch](https://github.com/3ipp0/3ipp0-shka/blob/master/Architecture/Arch.psd)
+![Image of Arch](https://github.com/3ipp0/3ipp0-shka/blob/master/Architecture/Arch.jpg)
 
 ### Що НЕ зроблено:
   Користувач повинен мати змогу:
