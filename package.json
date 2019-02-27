@@ -1,0 +1,27 @@
+{
+  "name": "3ipp0-shka",
+  "version": "1.0.0",
+  "description": "to-do-shka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ipp0/3ipp0-shka.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "3ipp0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ipp0/3ipp0-shka/issues"
+  },
+  "homepage": "https://github.com/3ipp0/3ipp0-shka#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
