@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>doesList</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>Does List</h1>
+    <ul>
+      <%
+        var list = '';
+        for (i = 0; i < doeslist.length; i++) {
+          list += '<li>' + doeslist[i].do + '</li>';
+        }
+        return list;
+      %>
+    </ul>
+  </body>
+</html>
